@@ -29,5 +29,3 @@ This repo contains a GitHub workflow that runs every day and for every push to t
 
 1. Change timezone to Asia/Shanghai for China users. 
 2. Add flattenExportFiletree option to create folders for subpages.
-
-1.20220901 22:27
